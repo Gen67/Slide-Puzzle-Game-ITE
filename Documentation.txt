@@ -1,0 +1,23 @@
+ITE Slide Puzzle Game is a simple  logic-based game where a picture is split into a grid of tiles. 
+One tile is missing, allowing the player to slide adjacent tiles into the empty space to rearrange the pieces and restore the original image.
+
+Features: 
+1. Custom or ITE department prof image Selection.
+2. grid Size 3x3, 4x4, 5x5, 6x6, and 7x7.
+3. Timer and Move counter
+4. Shuffle/restart button to randomize tiles
+5. Hint(Numbers) or preview of the original image.
+
+
+Mechanics of the Game: 
+1. Win Condition: The game is complete when all tiles match the original image layout.
+2. Image Splitting: The image is divided into equal-sized tiles based on the selected grid.
+3. Sliding Mechanism: Clicking/Tapping a tile adjacent to the empty space moves it into the blank spot.
+4. Empty Tile: One tile space is left blank to enable sliding.
+
+Game Engine Use: 
+Godot Version 4.3.0.0
+
+
+
+
