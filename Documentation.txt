@@ -16,7 +16,7 @@ Mechanics of the Game:
 4. Empty Tile: One tile space is left blank to enable sliding.
 
 Game Engine Use: 
-Godot Version 4.3.0.0
+Godot Version 3.3.0.0
 
 
 
